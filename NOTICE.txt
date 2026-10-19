@@ -1,0 +1,37 @@
+NOTICE
+======
+
+SHOT-C
+Copyright (c) 2022-2026 Hyan Lima.
+Licensed under the MIT License.
+See LICENSE for the full license text.
+
+------------------------------------------------------------------------------
+
+This software includes the following third-party components:
+
+1. MathGL
+   Copyright (c) Alexey Balakin.
+   Licensed under the GNU Lesser General Public License v3.0 (LGPL v3)
+   (core and widget libraries, built with --enable-lgpl).
+   Website: http://mathgl.sourceforge.net
+   See LICENSES/MathGL-LGPLv3.txt for the full license text.
+
+2. MinGW-w64 Runtime
+   Copyright (c) 2009, 2010 by the mingw-w64 project.
+   Licensed under a BSD-style license (see LICENSES/MinGW-w64-runtime.txt).
+   Includes portions under the following additional notices:
+     - getopt / getopt_long: Copyright (c) 2002 Todd C. Miller
+       and Copyright (c) 2000 The NetBSD Foundation, Inc.
+     - gdtoa: Copyright (C) 1997-2001 Lucent Technologies;
+       Copyright (C) 2004, 2005 David M. Gay.
+     - Math library: Copyright (C) 1993 Sun Microsystems, Inc.
+     - Cephes math lib: Copyright (C) 1984-1998 Stephen L. Moshier.
+     - Headers/IDLs from the Wine project: LGPL v2.1+.
+
+------------------------------------------------------------------------------
+
+Disclaimer:
+SHOT-C is distributed in the hope that it will be useful, but WITHOUT ANY
+WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE. See the MIT License for more details.   
